@@ -99,7 +99,8 @@ What are the hostel facilities?	“Separate hostels for boys and girls with WiFi
 Does the college offer placements?	“Yes! Our top recruiters include TCS, Infosys, and Wipro with 90% placement rate.”
 How can I pay my fees?	“Fees can be paid online through our student portal or via bank transfer.”
 
-![alt text](image.png)
+<img width="1168" height="668" alt="Screenshot 2025-11-02 000355" src="https://github.com/user-attachments/assets/c542895d-dce8-4c82-97e9-4a0d5701df7b" />
+
 
 🧑‍💻 Future Enhancements
 Integrate a vector database (FAISS) for scalable retrieval.
